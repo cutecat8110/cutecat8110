@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <title>專案展示圖模板</title>
+  <style>
+    *{box-sizing:border-box}html,body{margin:0;width:2988px;height:1934px;overflow:hidden;background:#fff;font-family:"Segoe UI","Microsoft JhengHei",sans-serif}
+    .canvas{position:relative;width:1494px;height:967px;transform:scale(2);transform-origin:top left}
+    .browser{position:absolute;left:35px;top:15px;width:1424px;border-radius:25px;overflow:hidden;box-shadow:0 20px 24px #0003;background:#fff}
+    .tabs{height:43px;background:#202221;color:#e6e6e6;display:flex;align-items:end;gap:7px;padding:0 10px}
+    .tab-menu{align-self:center;background:#363837;width:28px;height:28px;border-radius:9px;display:grid;place-items:center;font-size:16px}
+    .tab{height:36px;width:247px;background:#3b3d3c;border-radius:12px 12px 0 0;padding:0 17px;display:flex;align-items:center;gap:12px;font-size:13px}
+    .tab-icon{width:16px;height:16px;flex:none}.tab-title{min-width:0;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.tab .close{margin-left:auto;color:#ccc;font-size:18px;flex:none}.plus{font-size:22px;padding:0 12px 6px}.window-actions{margin-left:auto;align-self:center;display:flex;align-items:center;gap:33px;font-size:18px;padding-right:9px}
+    .toolbar{height:47px;background:#3b3d3c;display:flex;align-items:center;gap:19px;padding:0 17px;color:#aeb2af}
+    .tool{width:17px;height:17px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;flex:none}
+    .address{height:33px;background:#252726;border-radius:19px;flex:1;display:flex;align-items:center;gap:13px;padding:0 12px;color:#dedfdf;font-size:14px}
+    .address .tool{width:16px;height:16px}.star{margin-left:auto;color:#aeb2af}.dots{font-size:24px;width:16px;text-align:center}
+    .page{display:block;width:1424px;height:804px;object-fit:fill}
+  </style>
+</head>
+<body>
+  <main class="canvas" aria-label="專案展示圖">
+    <div class="browser">
+      <div class="tabs" aria-hidden="true"><span class="tab-menu">⌄</span><span class="tab"><svg class="tab-icon" viewBox="0 0 24 24" fill="none" stroke="#91aca4" stroke-width="1.5" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c5 5 5 13 0 18M12 3c-5 5-5 13 0 18"/></svg><span class="tab-title" title="專案名稱 | 網站原始標題">專案名稱 | 網站原始標題</span><span class="close">×</span></span><span class="plus">+</span><span class="window-actions"><span>−</span><span>□</span><span>×</span></span></div>
+      <div class="toolbar" aria-hidden="true">
+        <svg class="tool" viewBox="0 0 24 24"><path d="M20 12H4m7-7-7 7 7 7"/></svg>
+        <svg class="tool" viewBox="0 0 24 24"><path d="M4 12h16m-7-7 7 7-7 7"/></svg>
+        <svg class="tool" viewBox="0 0 24 24"><path d="M20 10a8 8 0 1 0-1 7M20 4v6h-6"/></svg>
+        <svg class="tool" viewBox="0 0 24 24"><path d="m3 11 9-8 9 8M5 10v11h5v-7h4v7h5V10"/></svg>
+        <div class="address"><svg class="tool" viewBox="0 0 24 24"><path d="M4 7h7m5 0h4M4 17h2m5 0h9"/><circle cx="13" cy="7" r="2.5"/><circle cx="8" cy="17" r="2.5"/></svg><span>portal.example</span><span class="star">☆</span></div>
+        <span class="dots">⋮</span>
+      </div>
+      <img class="page" src="placeholder.svg" alt="請替換為專案的實際畫面">
+    </div>
+  </main>
+</body>
+</html>
