@@ -15,14 +15,14 @@
 <a href="https://enjoy-luxury-hotel.onrender.com/"><img src="assets/projects/enjoy-luxury-hotel.webp" alt="享樂酒店目前首頁與訂房入口" width="100%" /></a>
 <p>房型瀏覽、會員管理與訂房流程。</p>
 <p><sub>Nuxt 3 · TypeScript · Tailwind CSS</sub></p>
-<p><a href="https://enjoy-luxury-hotel.onrender.com/">Demo</a> · <a href="https://github.com/cutecat8110/enjoy-luxury-hotel#readme">專案介紹</a></p>
+<p><a href="https://enjoy-luxury-hotel.onrender.com/">Demo</a> · <a href="https://github.com/cutecat8110/enjoy-luxury-hotel#readme">專案介紹</a><br /><sub><a href="https://enjoy-luxury-hotel.onrender.com/auth/login">會員登入</a>：點鑰匙帶入帳密，再按登入。</sub></p>
 </td>
 <td width="50%" valign="top">
 <h3>MetaWall｜社群內容牆</h3>
 <a href="https://cutecat8110.github.io/metawall-front/"><img src="assets/projects/metawall-front.webp" alt="MetaWall 貼文、留言與會員操作" width="100%" /></a>
 <p>發文、留言、按讚與追蹤，串接自建 API。</p>
 <p><sub>Vue 3 · Express · MongoDB</sub></p>
-<p><a href="https://cutecat8110.github.io/metawall-front/">Demo</a> · <a href="https://github.com/cutecat8110/metawall-front#readme">前端</a> · <a href="https://github.com/cutecat8110/metawall-back#readme">後端</a></p>
+<p><a href="https://cutecat8110.github.io/metawall-front/">Demo</a> · <a href="https://github.com/cutecat8110/metawall-front#readme">前端</a> · <a href="https://github.com/cutecat8110/metawall-back#readme">後端</a><br /><sub>點鑰匙帶入帳密，再按登入。</sub></p>
 </td>
 </tr>
 <tr>
@@ -31,7 +31,7 @@
 <a href="https://cutecat8110.github.io/snbl/"><img src="assets/projects/snbl.webp" alt="SNBL 服飾首頁與商品導覽" width="100%" /></a>
 <p>商品選購、購物車、訂單與後台管理。</p>
 <p><sub>Vue 3 · Bootstrap 5 · REST API</sub></p>
-<p><a href="https://cutecat8110.github.io/snbl/">Demo</a> · <a href="https://github.com/cutecat8110/snbl#readme">專案介紹</a></p>
+<p><a href="https://cutecat8110.github.io/snbl/">Demo</a> · <a href="https://github.com/cutecat8110/snbl#readme">專案介紹</a><br /><sub>前台可直接體驗；後台需管理帳號。</sub></p>
 </td>
 <td width="50%" valign="top">
 <h3>TS Todo｜待辦清單</h3>
@@ -59,7 +59,7 @@
 </tr>
 </table>
 
-<sub>享樂酒店與 MetaWall 首次開啟可能需要等待服務啟動。</sub>
+<sub>享樂酒店與 MetaWall 首次開啟可能需要等待服務啟動；共用展示帳號請勿填入個人資訊或更改密碼。</sub>
 
 ## 互動 Demo
 
