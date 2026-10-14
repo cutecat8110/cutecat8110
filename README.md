@@ -38,7 +38,7 @@
 <a href="https://cutecat8110.github.io/ts-todo/#/login"><img src="assets/projects/ts-todo.webp" alt="TS Todo 目前登入與註冊入口" width="100%" /></a>
 <p>帳號註冊與待辦新增、編輯、完成狀態。</p>
 <p><sub>Vue 3 · TypeScript · Pinia</sub></p>
-<p><a href="https://cutecat8110.github.io/ts-todo/#/login">Demo</a> · <a href="https://github.com/cutecat8110/ts-todo#readme">專案介紹</a><br /><sub>試用請先註冊。</sub></p>
+<p><a href="https://cutecat8110.github.io/ts-todo/#/login">Demo</a> · <a href="https://github.com/cutecat8110/ts-todo#readme">專案介紹</a><br /><sub>點鑰匙帶入帳密，再按登入。</sub></p>
 </td>
 </tr>
 <tr>
