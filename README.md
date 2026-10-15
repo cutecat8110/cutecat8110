@@ -8,97 +8,39 @@
 
 ## 個人作品
 
-[享樂酒店](#enjoy-luxury-hotel) · [MetaWall](#metawall-front) · [SNBL](#snbl) · [TS Todo](#ts-todo) · [MACCHA](#maccha) · [樂丘廚房](#leo-chiu)
+<p>
+<a id="enjoy-luxury-hotel"></a><a href="https://enjoy-luxury-hotel.onrender.com/"><picture><source media="(max-width: 767px)" srcset="assets/cards/enjoy-luxury-hotel-mobile.svg" width="280" height="300"><source media="(min-width: 768px)" srcset="assets/cards/enjoy-luxury-hotel.svg" width="410" height="363"><img src="assets/cards/enjoy-luxury-hotel.svg" alt="享樂酒店｜旅館訂房：房型瀏覽、會員管理與訂房流程。 Nuxt 3 · TypeScript · Tailwind CSS" width="410" /></picture></a>
+<a id="metawall-front"></a><a href="https://cutecat8110.github.io/metawall-front/"><picture><source media="(max-width: 767px)" srcset="assets/cards/metawall-front-mobile.svg" width="280" height="300"><source media="(min-width: 768px)" srcset="assets/cards/metawall-front.svg" width="410" height="363"><img src="assets/cards/metawall-front.svg" alt="MetaWall｜社群內容牆：發文、留言、按讚與追蹤，串接自建 API。 Vue 3 · Express · MongoDB" width="410" /></picture></a>
+<a id="snbl"></a><a href="https://cutecat8110.github.io/snbl/"><picture><source media="(max-width: 767px)" srcset="assets/cards/snbl-mobile.svg" width="280" height="300"><source media="(min-width: 768px)" srcset="assets/cards/snbl.svg" width="410" height="363"><img src="assets/cards/snbl.svg" alt="SNBL｜服飾電商：商品選購、購物車、訂單與後台管理。 Vue 3 · Bootstrap 5 · REST API" width="410" /></picture></a>
+<a id="ts-todo"></a><a href="https://cutecat8110.github.io/ts-todo/#/login"><picture><source media="(max-width: 767px)" srcset="assets/cards/ts-todo-mobile.svg" width="280" height="300"><source media="(min-width: 768px)" srcset="assets/cards/ts-todo.svg" width="410" height="363"><img src="assets/cards/ts-todo.svg" alt="TS Todo｜待辦清單：帳號註冊與待辦新增、編輯、完成狀態。 Vue 3 · TypeScript · Pinia" width="410" /></picture></a>
+<a id="maccha"></a><a href="https://cutecat8110.github.io/maccha/"><picture><source media="(max-width: 767px)" srcset="assets/cards/maccha-mobile.svg" width="280" height="300"><source media="(min-width: 768px)" srcset="assets/cards/maccha.svg" width="410" height="363"><img src="assets/cards/maccha.svg" alt="MACCHA｜抹茶形象網站：響應式切版、捲動動畫與菜單瀏覽。 Vue 3 · TypeScript · GSAP" width="410" /></picture></a>
+<a id="leo-chiu"></a><a href="https://cutecat8110.github.io/leo-chiu/"><picture><source media="(max-width: 767px)" srcset="assets/cards/leo-chiu-mobile.svg" width="280" height="300"><source media="(min-width: 768px)" srcset="assets/cards/leo-chiu.svg" width="410" height="363"><img src="assets/cards/leo-chiu.svg" alt="樂丘廚房｜餐廳形象網站：餐點輪播、章節導覽與 FAQ 互動。 HTML · SCSS · JavaScript" width="410" /></picture></a>
+</p>
 
-<table align="left"><tr><td width="410" valign="top">
-<a id="enjoy-luxury-hotel"></a>
-<a href="https://enjoy-luxury-hotel.onrender.com/"><img src="assets/projects/enjoy-luxury-hotel.webp" alt="享樂酒店目前首頁與訂房入口" width="410" height="265" /></a>
-<p><strong>享樂酒店｜旅館訂房</strong><br>房型瀏覽、會員管理與訂房流程。<br><sub>Nuxt 3 · TypeScript · Tailwind CSS</sub></p>
-<p><a href="https://enjoy-luxury-hotel.onrender.com/">Demo</a> &nbsp; · &nbsp; <a href="https://github.com/cutecat8110/enjoy-luxury-hotel#readme">專案介紹</a></p>
-</td></tr></table>
-
-<table align="left"><tr><td width="410" valign="top">
-<a id="metawall-front"></a>
-<a href="https://cutecat8110.github.io/metawall-front/"><img src="assets/projects/metawall-front.webp" alt="MetaWall 貼文、留言與會員操作" width="410" height="265" /></a>
-<p><strong>MetaWall｜社群內容牆</strong><br>發文、留言、按讚與追蹤，串接自建 API。<br><sub>Vue 3 · Express · MongoDB</sub></p>
-<p><a href="https://cutecat8110.github.io/metawall-front/">Demo</a> &nbsp; · &nbsp; <a href="https://github.com/cutecat8110/metawall-front#readme">前端</a> &nbsp; · &nbsp; <a href="https://github.com/cutecat8110/metawall-back#readme">後端</a></p>
-</td></tr></table>
-<br clear="all">
-
-<table align="left"><tr><td width="410" valign="top">
-<a id="snbl"></a>
-<a href="https://cutecat8110.github.io/snbl/"><img src="assets/projects/snbl.webp" alt="SNBL 服飾首頁與商品導覽" width="410" height="265" /></a>
-<p><strong>SNBL｜服飾電商</strong><br>商品選購、購物車、訂單與後台管理。<br><sub>Vue 3 · Bootstrap 5 · REST API</sub></p>
-<p><a href="https://cutecat8110.github.io/snbl/">Demo</a> &nbsp; · &nbsp; <a href="https://github.com/cutecat8110/snbl#readme">專案介紹</a></p>
-</td></tr></table>
-
-<table align="left"><tr><td width="410" valign="top">
-<a id="ts-todo"></a>
-<a href="https://cutecat8110.github.io/ts-todo/#/login"><img src="assets/projects/ts-todo.webp" alt="TS Todo 目前登入與註冊入口" width="410" height="265" /></a>
-<p><strong>TS Todo｜待辦清單</strong><br>帳號註冊與待辦新增、編輯、完成狀態。<br><sub>Vue 3 · TypeScript · Pinia</sub></p>
-<p><a href="https://cutecat8110.github.io/ts-todo/#/login">Demo</a> &nbsp; · &nbsp; <a href="https://github.com/cutecat8110/ts-todo#readme">專案介紹</a></p>
-</td></tr></table>
-<br clear="all">
-
-<table align="left"><tr><td width="410" valign="top">
-<a id="maccha"></a>
-<a href="https://cutecat8110.github.io/maccha/"><img src="assets/projects/maccha.webp" alt="MACCHA 抹茶主視覺與章節導覽" width="410" height="265" /></a>
-<p><strong>MACCHA｜抹茶形象網站</strong><br>響應式切版、捲動動畫與菜單瀏覽。<br><sub>Vue 3 · TypeScript · GSAP</sub></p>
-<p><a href="https://cutecat8110.github.io/maccha/">Demo</a> &nbsp; · &nbsp; <a href="https://github.com/cutecat8110/maccha#readme">專案介紹</a></p>
-</td></tr></table>
-
-<table align="left"><tr><td width="410" valign="top">
-<a id="leo-chiu"></a>
-<a href="https://cutecat8110.github.io/leo-chiu/"><img src="assets/projects/leo-chiu.webp" alt="樂丘廚房餐點輪播與首頁視覺" width="410" height="265" /></a>
-<p><strong>樂丘廚房｜餐廳形象網站</strong><br>餐點輪播、章節導覽與 FAQ 互動。<br><sub>HTML · SCSS · JavaScript</sub></p>
-<p><a href="https://cutecat8110.github.io/leo-chiu/">Demo</a> &nbsp; · &nbsp; <a href="https://github.com/cutecat8110/leo-chiu#readme">專案介紹</a></p>
-</td></tr></table>
-<br clear="all">
+- [享樂酒店](#enjoy-luxury-hotel)　[Demo](https://enjoy-luxury-hotel.onrender.com/) · [專案介紹](https://github.com/cutecat8110/enjoy-luxury-hotel#readme)
+- [MetaWall](#metawall-front)　[Demo](https://cutecat8110.github.io/metawall-front/) · [前端](https://github.com/cutecat8110/metawall-front#readme) · [後端](https://github.com/cutecat8110/metawall-back#readme)
+- [SNBL](#snbl)　[Demo](https://cutecat8110.github.io/snbl/) · [專案介紹](https://github.com/cutecat8110/snbl#readme)
+- [TS Todo](#ts-todo)　[Demo](https://cutecat8110.github.io/ts-todo/#/login) · [專案介紹](https://github.com/cutecat8110/ts-todo#readme)
+- [MACCHA](#maccha)　[Demo](https://cutecat8110.github.io/maccha/) · [專案介紹](https://github.com/cutecat8110/maccha#readme)
+- [樂丘廚房](#leo-chiu)　[Demo](https://cutecat8110.github.io/leo-chiu/) · [專案介紹](https://github.com/cutecat8110/leo-chiu#readme)
 
 <a id="互動-demo"></a><a id="實務經驗展示"></a><a id="工作經驗-demo"></a>
 
 ## 經驗 Demo
 
-[嶼序後台](#islet-admin-demo) · [織序 CRM](#weave-crm-demo) · [汐衡能源](#tideline-energy-demo) · [拾間選物](#stillroom-shop-demo) · [度冊計費](#unit-ledger-demo)
+<p>
+<a id="islet-admin-demo"></a><a href="https://cutecat8110.github.io/islet-admin-demo/"><picture><source media="(max-width: 767px)" srcset="assets/cards/islet-admin-demo-mobile.svg" width="280" height="300"><source media="(min-width: 768px)" srcset="assets/cards/islet-admin-demo.svg" width="410" height="363"><img src="assets/cards/islet-admin-demo.svg" alt="嶼序後台｜共用架構：共用操作列、長表單、逐字稿與元件展示。 Vue 3 · TypeScript · PrimeVue · Quill" width="410" /></picture></a>
+<a id="weave-crm-demo"></a><a href="https://cutecat8110.github.io/weave-crm-demo/"><picture><source media="(max-width: 767px)" srcset="assets/cards/weave-crm-demo-mobile.svg" width="280" height="300"><source media="(min-width: 768px)" srcset="assets/cards/weave-crm-demo.svg" width="410" height="363"><img src="assets/cards/weave-crm-demo.svg" alt="織序 CRM｜會員與對話：會員分級、聯絡歷程、對話搜尋與中英切換。 Nuxt 4 · TypeScript · Element Plus" width="410" /></picture></a>
+<a id="tideline-energy-demo"></a><a href="https://cutecat8110.github.io/tideline-energy-demo/"><picture><source media="(max-width: 767px)" srcset="assets/cards/tideline-energy-demo-mobile.svg" width="280" height="300"><source media="(min-width: 768px)" srcset="assets/cards/tideline-energy-demo.svg" width="410" height="363"><img src="assets/cards/tideline-energy-demo.svg" alt="汐衡能源｜趨勢分析：不同量級同圖比較、前期趨勢與報表匯出。 React · TypeScript · Recharts" width="410" /></picture></a>
+<a id="stillroom-shop-demo"></a><a href="https://cutecat8110.github.io/stillroom-shop-demo/#/editor"><picture><source media="(max-width: 767px)" srcset="assets/cards/stillroom-shop-demo-mobile.svg" width="280" height="300"><source media="(min-width: 768px)" srcset="assets/cards/stillroom-shop-demo.svg" width="410" height="363"><img src="assets/cards/stillroom-shop-demo.svg" alt="拾間選物｜店面編輯：店面編排、商品組合與贈品核對、圖片對話。 Nuxt 4 · TypeScript · Element Plus" width="410" /></picture></a>
+<a id="unit-ledger-demo"></a><a href="https://cutecat8110.github.io/unit-ledger-demo/"><picture><source media="(max-width: 767px)" srcset="assets/cards/unit-ledger-demo-mobile.svg" width="280" height="300"><source media="(min-width: 768px)" srcset="assets/cards/unit-ledger-demo.svg" width="410" height="363"><img src="assets/cards/unit-ledger-demo.svg" alt="度冊計費｜表計與帳務：CSV 匯入、總分表核對、費率試算與帳單。 Nuxt 4 · TypeScript · Nuxt UI" width="410" /></picture></a>
+</p>
 
-<table align="left"><tr><td width="410" valign="top">
-<a id="islet-admin-demo"></a>
-<a href="https://cutecat8110.github.io/islet-admin-demo/"><img src="assets/projects/islet-admin-demo.webp" alt="嶼序後台資產長表單與段落目錄" width="410" height="265" /></a>
-<p><strong>嶼序後台｜共用架構</strong><br>共用操作列、長表單、逐字稿與元件展示。<br><sub>Vue 3 · TypeScript · PrimeVue · Quill</sub></p>
-<p><a href="https://cutecat8110.github.io/islet-admin-demo/">Demo</a> &nbsp; · &nbsp; <a href="https://github.com/cutecat8110/islet-admin-demo#readme">專案介紹</a></p>
-</td></tr></table>
-
-<table align="left"><tr><td width="410" valign="top">
-<a id="weave-crm-demo"></a>
-<a href="https://cutecat8110.github.io/weave-crm-demo/"><img src="assets/projects/weave-crm-demo.webp" alt="織序 CRM 對話搜尋與圖片訊息" width="410" height="265" /></a>
-<p><strong>織序 CRM｜會員與對話</strong><br>會員分級、聯絡歷程、對話搜尋與中英切換。<br><sub>Nuxt 4 · TypeScript · Element Plus</sub></p>
-<p><a href="https://cutecat8110.github.io/weave-crm-demo/">Demo</a> &nbsp; · &nbsp; <a href="https://github.com/cutecat8110/weave-crm-demo#readme">專案介紹</a></p>
-</td></tr></table>
-<br clear="all">
-
-<table align="left"><tr><td width="410" valign="top">
-<a id="tideline-energy-demo"></a>
-<a href="https://cutecat8110.github.io/tideline-energy-demo/"><img src="assets/projects/tideline-energy-demo.webp" alt="汐衡能源四港比較與雙刻度圖表" width="410" height="293" /></a>
-<p><strong>汐衡能源｜趨勢分析</strong><br>不同量級同圖比較、前期趨勢與報表匯出。<br><sub>React · TypeScript · Recharts</sub></p>
-<p><a href="https://cutecat8110.github.io/tideline-energy-demo/">Demo</a> &nbsp; · &nbsp; <a href="https://github.com/cutecat8110/tideline-energy-demo#readme">專案介紹</a></p>
-</td></tr></table>
-
-<table align="left"><tr><td width="410" valign="top">
-<a id="stillroom-shop-demo"></a>
-<a href="https://cutecat8110.github.io/stillroom-shop-demo/#/editor"><img src="assets/projects/stillroom-shop-demo.webp" alt="拾間選物店面編輯器與即時預覽" width="410" height="265" /></a>
-<p><strong>拾間選物｜店面編輯</strong><br>店面編排、商品組合與贈品核對、圖片對話。<br><sub>Nuxt 4 · TypeScript · Element Plus</sub></p>
-<p><a href="https://cutecat8110.github.io/stillroom-shop-demo/#/editor">編輯器</a> &nbsp; · &nbsp; <a href="https://cutecat8110.github.io/stillroom-shop-demo/">店面</a> &nbsp; · &nbsp; <a href="https://github.com/cutecat8110/stillroom-shop-demo#readme">專案介紹</a></p>
-</td></tr></table>
-<br clear="all">
-
-<table align="left"><tr><td width="410" valign="top">
-<a id="unit-ledger-demo"></a>
-<a href="https://cutecat8110.github.io/unit-ledger-demo/"><img src="assets/projects/unit-ledger-demo.webp" alt="度冊計費批次抄表與總分表核對" width="410" height="265" /></a>
-<p><strong>度冊計費｜表計與帳務</strong><br>CSV 匯入、總分表核對、費率試算與帳單。<br><sub>Nuxt 4 · TypeScript · Nuxt UI</sub></p>
-<p><a href="https://cutecat8110.github.io/unit-ledger-demo/">Demo</a> &nbsp; · &nbsp; <a href="https://github.com/cutecat8110/unit-ledger-demo#readme">專案介紹</a></p>
-</td></tr></table>
-
-<br clear="all">
+- [嶼序後台](#islet-admin-demo)　[Demo](https://cutecat8110.github.io/islet-admin-demo/) · [專案介紹](https://github.com/cutecat8110/islet-admin-demo#readme)
+- [織序 CRM](#weave-crm-demo)　[Demo](https://cutecat8110.github.io/weave-crm-demo/) · [專案介紹](https://github.com/cutecat8110/weave-crm-demo#readme)
+- [汐衡能源](#tideline-energy-demo)　[Demo](https://cutecat8110.github.io/tideline-energy-demo/) · [專案介紹](https://github.com/cutecat8110/tideline-energy-demo#readme)
+- [拾間選物](#stillroom-shop-demo)　[編輯器](https://cutecat8110.github.io/stillroom-shop-demo/#/editor) · [店面](https://cutecat8110.github.io/stillroom-shop-demo/) · [專案介紹](https://github.com/cutecat8110/stillroom-shop-demo#readme)
+- [度冊計費](#unit-ledger-demo)　[Demo](https://cutecat8110.github.io/unit-ledger-demo/) · [專案介紹](https://github.com/cutecat8110/unit-ledger-demo#readme)
 
 ## 技術與工具
 
