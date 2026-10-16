@@ -1,4 +1,4 @@
-# Hey, I'm HaoHao. 👋
+# Hey, I'm HaoHao.
 
 前端開發 · 介面設計
 
