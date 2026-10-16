@@ -2,7 +2,7 @@
 
 前端開發 · 介面設計
 
-[個人作品](#個人作品) &nbsp; / &nbsp; [經驗 Demo](#經驗-demo) &nbsp; / &nbsp; [技術與工具](#技術與工具)
+[個人作品](#個人作品) · [經驗 Demo](#經驗-demo) · [技術與工具](#技術與工具)
 
 <img src="assets/banner.png" alt="雪地中的新芽" width="1444" height="265" />
 
@@ -17,12 +17,12 @@
 <a href="https://cutecat8110.github.io/leo-chiu/"><picture><source media="(max-width: 767px)" srcset="assets/cards/leo-chiu-mobile.c1645f0fc0.svg" width="280"><source media="(min-width: 768px)" srcset="assets/cards/leo-chiu.abfdb53a5c.svg" width="410"><img id="leo-chiu" src="assets/cards/leo-chiu.abfdb53a5c.svg" alt="樂丘廚房｜餐廳形象網站：餐點輪播、章節導覽與 FAQ 互動。 HTML · SCSS · JavaScript" width="410" /></picture></a>
 </p>
 
-- [享樂酒店](#enjoy-luxury-hotel)　[Demo](https://enjoy-luxury-hotel.onrender.com/) · [專案介紹](https://github.com/cutecat8110/enjoy-luxury-hotel#readme)
+- [享樂酒店](#enjoy-luxury-hotel)　[Demo](https://enjoy-luxury-hotel.onrender.com/) · [介紹](https://github.com/cutecat8110/enjoy-luxury-hotel#readme)
 - [MetaWall](#metawall-front)　[Demo](https://cutecat8110.github.io/metawall-front/) · [前端](https://github.com/cutecat8110/metawall-front#readme) · [後端](https://github.com/cutecat8110/metawall-back#readme)
-- [SNBL](#snbl)　[Demo](https://cutecat8110.github.io/snbl/) · [專案介紹](https://github.com/cutecat8110/snbl#readme)
-- [TS Todo](#ts-todo)　[Demo](https://cutecat8110.github.io/ts-todo/#/login) · [專案介紹](https://github.com/cutecat8110/ts-todo#readme)
-- [MACCHA](#maccha)　[Demo](https://cutecat8110.github.io/maccha/) · [專案介紹](https://github.com/cutecat8110/maccha#readme)
-- [樂丘廚房](#leo-chiu)　[Demo](https://cutecat8110.github.io/leo-chiu/) · [專案介紹](https://github.com/cutecat8110/leo-chiu#readme)
+- [SNBL](#snbl)　[Demo](https://cutecat8110.github.io/snbl/) · [介紹](https://github.com/cutecat8110/snbl#readme)
+- [TS Todo](#ts-todo)　[Demo](https://cutecat8110.github.io/ts-todo/#/login) · [介紹](https://github.com/cutecat8110/ts-todo#readme)
+- [MACCHA](#maccha)　[Demo](https://cutecat8110.github.io/maccha/) · [介紹](https://github.com/cutecat8110/maccha#readme)
+- [樂丘廚房](#leo-chiu)　[Demo](https://cutecat8110.github.io/leo-chiu/) · [介紹](https://github.com/cutecat8110/leo-chiu#readme)
 
 <a id="互動-demo"></a><a id="實務經驗展示"></a><a id="工作經驗-demo"></a>
 
@@ -36,11 +36,11 @@
 <a href="https://cutecat8110.github.io/unit-ledger-demo/"><picture><source media="(max-width: 767px)" srcset="assets/cards/unit-ledger-demo-mobile.2f2bef2a70.svg" width="280"><source media="(min-width: 768px)" srcset="assets/cards/unit-ledger-demo.4ab8731eb6.svg" width="410"><img id="unit-ledger-demo" src="assets/cards/unit-ledger-demo.4ab8731eb6.svg" alt="度冊計費｜表計與帳務：CSV 匯入、總分表核對、費率試算與帳單。 Nuxt 4 · TypeScript · Nuxt UI" width="410" /></picture></a>
 </p>
 
-- [嶼序後台](#islet-admin-demo)　[Demo](https://cutecat8110.github.io/islet-admin-demo/) · [專案介紹](https://github.com/cutecat8110/islet-admin-demo#readme)
-- [織序 CRM](#weave-crm-demo)　[Demo](https://cutecat8110.github.io/weave-crm-demo/) · [專案介紹](https://github.com/cutecat8110/weave-crm-demo#readme)
-- [汐衡能源](#tideline-energy-demo)　[Demo](https://cutecat8110.github.io/tideline-energy-demo/) · [專案介紹](https://github.com/cutecat8110/tideline-energy-demo#readme)
-- [拾間選物](#stillroom-shop-demo)　[編輯器](https://cutecat8110.github.io/stillroom-shop-demo/#/editor) · [店面](https://cutecat8110.github.io/stillroom-shop-demo/) · [專案介紹](https://github.com/cutecat8110/stillroom-shop-demo#readme)
-- [度冊計費](#unit-ledger-demo)　[Demo](https://cutecat8110.github.io/unit-ledger-demo/) · [專案介紹](https://github.com/cutecat8110/unit-ledger-demo#readme)
+- [嶼序後台](#islet-admin-demo)　[Demo](https://cutecat8110.github.io/islet-admin-demo/) · [介紹](https://github.com/cutecat8110/islet-admin-demo#readme)
+- [織序 CRM](#weave-crm-demo)　[Demo](https://cutecat8110.github.io/weave-crm-demo/) · [介紹](https://github.com/cutecat8110/weave-crm-demo#readme)
+- [汐衡能源](#tideline-energy-demo)　[Demo](https://cutecat8110.github.io/tideline-energy-demo/) · [介紹](https://github.com/cutecat8110/tideline-energy-demo#readme)
+- [拾間選物](#stillroom-shop-demo)　[編輯器](https://cutecat8110.github.io/stillroom-shop-demo/#/editor) · [店面](https://cutecat8110.github.io/stillroom-shop-demo/) · [介紹](https://github.com/cutecat8110/stillroom-shop-demo#readme)
+- [度冊計費](#unit-ledger-demo)　[Demo](https://cutecat8110.github.io/unit-ledger-demo/) · [介紹](https://github.com/cutecat8110/unit-ledger-demo#readme)
 
 ## 技術與工具
 
